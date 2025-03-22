@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> plane widefield tutorial</title>
+    </head>
+    <h1>Plane Widefield Tutorial</h1>
+    <h2>Planning</h2>
+    <p> The planning here requires the most attention as you can't just bring anything on a plane, you can only bring what fits in your carry on.<br>
+    I recommend you make sure you have a window seat and bring the items listed below: <br>
+    <ul>
+        <li>A camera</li>
+        <li>A small tripod </li>
+        <li>a lens cover(you can buy one online or use a cover/headrest on the plane)</li>
+        <li>extra battery, power supply, and memory</li>
+        <li>shuter release cable/built in timer</li>
+        <li> some stabilizer (for example a cushion)</li>
+
+    </ul>
+    <hr>
+    </p>
+    <h2>Imaging</h2>
+    <p>
+        This part isn't as useful as it depends on your environment,<br>
+         for example my tripod was small enough to fit in between the seats and that's how I took all of my pictures,<br> 
+        but I understand this option might not be available to everybody, so I recommend trying your best to find a secure position for your tripod.<br>
+        In terms of exposure I recommend taking about 5-15 seconds depending on the flight and experimenting with the ISO, also remember to use the<br> 
+        shutter release cable or add an interval between the exposure and when you click the shutter button using the camera settings.<br>
+
+    </p>
+    <hr>
+    <h2>Processing</h2>
+    <p>For processing I recommend Photoshop, but if your are unwilling to spend money on your processing software, there are several <a href="https://zapier.com/blog/photoshop-alternatives-best-free-photo-editors/"> alternatives</a></p><br>
+    I recommend following this workflow(feel free to follow your own though):
+    <ol>
+        <li>First adjust the levels by clicking control/command+l<br>
+            and adjust the black slider until it is at the beginning of the histogram<br>
+            and slide the grey slider slightly to the left, repeat until you like the results, but be careful about how much noise you introduce.
+        </li>
+        <li>Adjust the saturation.</li>
+        <li> Open camera raw on Photoshop and take away reflections (if there are any) and play around with the features.</li>
+        <li> Enjoy results!(consider printing/publishing the image)</li>
+    </ol>
+
+</html>
