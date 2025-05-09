@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)file:///home/nbafitis10/Documents/untitled.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>catcam</title>
+	
+	<meta name="generator" content="Geany 1.38">
+	<style>
+	.catcam{
+	   text-align:center;
+	   display:block;
+	   
+	}
+	.button{
+	   text-align:center;
+	   margin-top:3%;
+	}
+	
+	h1{
+	   text-align:center;
+	   color:blue;
+	}
+	h2{
+	   text-align:center;
+	   color:blue;
+	}
+	body{
+	   background-color:green;
+	}
+	</style>
+</head>
+
+<body>
+   <h1>CATCAM</h1>
+   <h2> here are the cats:</h2>
+   <div class="catcam">
+         <img src="http://10.173.1.215/live" id="catcam" width="50%" height="50%">
+
+   </div>
+   <div class="button">
+         <button onclick="rotateDiv()" height="150%" width="150%"> rotate 90 degrees</button>
+   </div>
+   <script>
+    var angle = 0;
+
+    function rotateDiv() {
+      angle += 90;
+      document.getElementById("catcam").style.transform = `rotate(${angle}deg)`;
+    }
+  </script>
+	
+
+
+
+</body></html>
