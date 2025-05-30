@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>M1 Crab nebula</title>
+    <style>
+        body{
+            text-align:center;
+            background-color:black;
+            
+        }
+        h1{
+            color: white;
+            
+        }
+        p {
+            color:white;
+        
+        }
+        .text {
+            opacity:0;
+            text-align: center;
+            margin-top: -50%;
+           
+         
+        }
+        .description:hover .text{
+            opacity:1;
+        }
+       
+    </style>
+</head>
+<body>
+    <h1>M1 Crab Nebula</h1>
+    <div class="description">
+        <img src="https://www2.online-converting.com/upload/api_f4084aafee/result.jpg" width="60%" height="60%"></img>
+        <div class="text">
+            <p >This image was taken with a zwo seestar s50,<br> 
+                and I know it's not the best<br>
+                 but considering I took it in bortle 8 skies I would say it's pretty decent,<br> 
+                 I don't like the noise though<br>
+                  and that might be due to the light pollution according to what some are telling me</p>
+        </div>
+    </div>
+       
+        
+    
+</body>
+</html>
